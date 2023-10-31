@@ -1,1 +1,1 @@
-# odin-project
+# day 1 of odin project
